@@ -29,3 +29,11 @@ apt update && apt install python3-pip -y
 
 pip install sqlalchemy
 pip install pymysql
+
+
+Data to insert in schemas
+
+INSERT INTO `movies` VALUES (100,'Pirates of the Caribean 40',' Rob Marshall', 2022,1);
+INSERT INTO `movies` VALUES (101,'Pirates of the Caribean 41',' Rob Marshall', 2022,1);
+INSERT INTO `movies` VALUES (102,'Pirates of the Caribean 42',' Rob Marshall', 2022,1);
+INSERT INTO `movies` VALUES (103,'Pirates of the Caribean 43',' Rob Marshall', 2022,1);
